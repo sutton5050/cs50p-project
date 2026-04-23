@@ -10,7 +10,7 @@ terminal table.
 - Retrieve per-gameweek stats: goals, assists, bonus, xG, xA, ICT index, and more
 - Validates player name and gameweek range with clear error messages
 - Displays results in a clean, auto-scaled ASCII table (via `tabulate`)
-- Fully testable — all core logic in pure functions, 30+ pytest tests included
+- Fully testable
 
 ## Requirements
 
